@@ -17,27 +17,27 @@ We can detect three types that are grouped according to the pattern purpose, we 
 **Creational Patterns**
 These patterns provide object creation mechanisms that increase the flexibility and reuse of existing code.
 
-- Factory (go to article)
-- Builder (go to article)
-- Singleton (go to article)
+- [Factory](https://github.com/cdleo/go-design-patterns/blob/main/creational/factory)
+- [Builder](https://github.com/cdleo/go-design-patterns/blob/main/creational/builder)
+- [Singleton](https://github.com/cdleo/go-design-patterns/blob/main/creational/singleton)
 
 **Structural patterns**
 These patterns explain how to assemble objects and classes into larger structures while maintaining the flexibility and efficiency of the structure.
 
-- Adapter (go to article)
-- Bridge (go to article)
-- Composite (go to article)
-- Decorator (go to article)
-- Proxy (go to article)
-- Flyweight (go to article)
+- [Adapter](https://github.com/cdleo/go-design-patterns/blob/main/structural/adapter)
+- [Bridge](https://github.com/cdleo/go-design-patterns/blob/main/structural/bridge)
+- [Composite](https://github.com/cdleo/go-design-patterns/blob/main/structural/compisite)
+- [Decorator](https://github.com/cdleo/go-design-patterns/blob/main/structural/decorator)
+- [Proxy](https://github.com/cdleo/go-design-patterns/blob/main/structural/proxy)
+- [Flyweight](https://github.com/cdleo/go-design-patterns/blob/main/structural/flyweight)
 
 **Behavior patterns**
 These patterns deal with algorithms and the assignment of responsibilities between functionalities.
 
-- Strategy (go to article)
-- State (go to article)
-- Iterator (go to article)
-- Mediator (go to article)
-- Visitor (go to article)
+- [Strategy](https://github.com/cdleo/go-design-patterns/blob/main/behavioral/strategy)
+- [State](https://github.com/cdleo/go-design-patterns/blob/main/behavioral/state)
+- [Iterator](https://github.com/cdleo/go-design-patterns/blob/main/behavioral/iterator)
+- [Mediator](https://github.com/cdleo/go-design-patterns/blob/main/behavioral/mediator)
+- [Visitor](https://github.com/cdleo/go-design-patterns/blob/main/behavioral/visitor)
 
 
