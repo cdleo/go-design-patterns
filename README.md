@@ -40,4 +40,5 @@ These patterns deal with algorithms and the assignment of responsibilities betwe
 - [Mediator](https://github.com/cdleo/go-design-patterns/blob/main/behavioral/mediator)
 - [Visitor](https://github.com/cdleo/go-design-patterns/blob/main/behavioral/visitor)
 
-
+## Contributing
+Comments, suggestions and/or recommendations are always welcomed. Please check the [Contributing Guide](CONTRIBUTING.md) to learn how to get started contributing.
