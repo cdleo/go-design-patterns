@@ -1,4 +1,4 @@
-# Desing Patterns in GO
+# Design Patterns in GO
 
 ## What a Design Pattern is?
 The design pattern is a part of the software architecture that helps us to organize the code that we are writing because provides a general, reusable and applicable solution to different software design problems.
